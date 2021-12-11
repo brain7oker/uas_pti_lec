@@ -13,7 +13,7 @@ function AboutUs() {
       </div>
       <div className="row text-center">
         <div className="col-12 col-md-6">
-          <img className="rounded-circle mb-2" width="140" height="140"  role="img" src="iamges/henry"/>
+          <img className="rounded-circle mb-2" width="140" height="140"  role="img" src="images/henry"/>
 
           <h2>Nama</h2>
           <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
